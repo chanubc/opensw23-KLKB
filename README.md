@@ -26,6 +26,7 @@ CNN-Image-Colorization-Pytorch 폴더에 들어간다.
 inference 폴더에 들어가 사용하고 싶은 이미지의 이름과 확장자를 test_img.jpg로 설정하여 넣는다.
 다시 CNN-Image-Colorization-Pytorch 폴더에서 inference_script.py를 실행한다.
 
+![inference](https://github.com/chanubc/opensw23-KLKB/assets/127182406/179b974e-c4c9-4055-976a-3a4643f463ef)  
 
 
 
