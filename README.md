@@ -38,6 +38,7 @@ inference_script.py --model_path models/saved_model.pth --image_path inference/[
 
 ![inference](https://github.com/chanubc/opensw23-KLKB/assets/127182406/179b974e-c4c9-4055-976a-3a4643f463ef)  
 
+inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 수 있다.
 
 
 ## Presentation
