@@ -8,16 +8,7 @@
 
 ## Topic Introduction
 https://github.com/williamcfrancis/CNN-Image-Colorization-Pytorch Repository에서 가져와 사용함.  
-이 Repository의 인공지능은 그레이 스케일 이미지가 입력값으로 들어왔을 때, 학습된 모델을 통하여 그레이 스케일 이미지를 자동으로 색칠하여 256x256 크기의 이미지로 출력하는 딥러닝 모델이다.    
-
-## Results  
-<인풋이미지>  
-![test](https://github.com/chanubc/opensw23-KLKB/assets/127182406/a65ab306-fe69-4850-8016-40bd9333a64e)  
-
-<아웃풋 이미지>  
-![inference_output](https://github.com/chanubc/opensw23-KLKB/assets/127182406/e9e76841-e94f-4ea4-9eb5-5be3ef196570)    
-  
-  
+이 Repository의 인공지능은 그레이 스케일 이미지가 입력값으로 들어왔을 때, 학습된 모델을 통하여 그레이 스케일 이미지를 자동으로 색칠하여 256x256 크기의 이미지로 출력하는 딥러닝 모델이다.      
 
 ## Analysis/Visualization
 
@@ -42,5 +33,12 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 
 ![output이미지](https://github.com/chanubc/opensw23-KLKB/assets/127182406/05a98fc3-e1de-4ab6-8dec-45b618f1b831)  
 
+## Results  
+<인풋이미지>  
+![test](https://github.com/chanubc/opensw23-KLKB/assets/127182406/a65ab306-fe69-4850-8016-40bd9333a64e)  
+
+<아웃풋 이미지>  
+![inference_output](https://github.com/chanubc/opensw23-KLKB/assets/127182406/e9e76841-e94f-4ea4-9eb5-5be3ef196570)    
+  
 
 ## Presentation
