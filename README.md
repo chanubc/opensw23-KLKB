@@ -11,9 +11,12 @@ https://github.com/williamcfrancis/CNN-Image-Colorization-Pytorch Repository에�
 이 Repository의 인공지능은 이미지가 입력값으로 들어왔을 때, 그레이 스케일화 시켜, 학습된 모델을 통하여 그레이 스케일 된 이미지를 자동으로 색칠해주는 딥러닝 모델이다.    
 
 ## Results  
-![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/73a2976a-0751-426a-bf4f-5757686b1846)  
+<인풋이미지>  
+![test](https://github.com/chanubc/opensw23-KLKB/assets/127182406/a65ab306-fe69-4850-8016-40bd9333a64e)  
+
+<아웃풋 이미지>  
+![inference_output](https://github.com/chanubc/opensw23-KLKB/assets/127182406/e9e76841-e94f-4ea4-9eb5-5be3ef196570)    
   
-![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/0ee07c5c-74a3-4600-94ef-146badf4020f)  
   
 
 ## Analysis/Visualization
