@@ -8,7 +8,7 @@
 
 ## Topic Introduction
 https://github.com/williamcfrancis/CNN-Image-Colorization-Pytorch Repository에서 가져와 사용함.  
-이 Repository의 인공지능은 이미지가 입력값으로 들어왔을 때, 그레이 스케일화 시켜, 학습된 모델을 통하여 그레이 스케일 된 이미지를 자동으로 색칠해주는 딥러닝 모델이다.    
+이 Repository의 인공지능은 이미지가 입력값으로 들어왔을 때, 그레이 스케일화 시켜, 학습된 모델을 통하여 그레이 스케일 된 이미지를 자동으로 색칠하여 256x256 크기의 이미지로 출력하는 딥러닝 모델이다.    
 
 ## Results  
 <인풋이미지>  
