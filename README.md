@@ -65,11 +65,19 @@ nvidia-smi.exe 명령어 실행
 (필자의 경우엔 10.2라고 나온다.)  
 위 버전을 잘 기억해 두자  
 
-<CUDA toolkit설치>
+<CUDA toolkit설치>  
   
 https://developer.nvidia.com/cuda-toolkit-archive  
 다음 사이트에 접속하여 표에서 얻은 CUDA Version과 같은 것을 다운 받는다,  
-
-이제 다시 cmd창을 활용하여 클론 했던 가상환경 위치로 다시 돌아간다.  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/41272cad-71c6-4281-94ae-a8854e68dc6d)  
   
+이제 다시 cmd창을 활용하여 클론 했던 가상환경 위치로 다시 돌아간다.    
+  
+<라이브러리 설치>  
+https://pytorch.org/get-started/previous-versions/  
+
+위 사이트를 참고 하여 본인 CUDA버전과 맞는 pytorch, torchvision, torchaudio 라이브러리를 설치한다.  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/4394548b-2d1a-4700-9896-73023549d09d)  
+위와 같은 방식으로 사이트에 있는 명령어를 복사하여 사용하면 된다.  
+
 ## Presentation
