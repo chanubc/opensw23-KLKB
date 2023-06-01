@@ -45,4 +45,31 @@ shift + ctrl + esc 버튼을 눌러 작업 관리자를 실행한 후 성능 탭
   
 GPU메뉴에 접근하여 내 pc가 어떤 그래픽 카드를 쓰고 있는지 확인  
 (필자는 NVIDIA GeForce GTX 1060을 쓰고 있음을 알 수 있다.)  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/8b6a7076-934f-45b7-8282-e0cc7b41798f)  
+  
+  
+<NVIDIA Driver사이트 접속>  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/44bb883b-6d56-4c81-b658-5bfa3adb3466)  
+  
+  
+아까 작업관리자에서 확인했던 그래픽 카드 정보를 바탕으로 해당 product Series와 Product를 선택한 뒤에 Search를 누르고 Driver를 다운/설치를 한다.  
+  
+<적절한 CUDA버전 확인>  
+cmd창을 열어서  
+cd C:\Program Files\NVIDIA Corporation\NVSMI 명령어를 실행한 뒤에  
+nvidia-smi.exe 명령어 실행  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/39cde8b8-39e6-4fbf-b334-5789b1339327)  
+  
+  
+그러면 다음과 같은 표를 얻을 수 있고 우측 상단에 CUDA Version을 확인할 수 있다.  
+(필자의 경우엔 10.2라고 나온다.)  
+위 버전을 잘 기억해 두자  
+
+<CUDA toolkit설치>
+  
+https://developer.nvidia.com/cuda-toolkit-archive  
+다음 사이트에 접속하여 표에서 얻은 CUDA Version과 같은 것을 다운 받는다,  
+
+이제 다시 cmd창을 활용하여 클론 했던 가상환경 위치로 다시 돌아간다.  
+  
 ## Presentation
