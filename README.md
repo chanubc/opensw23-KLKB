@@ -22,10 +22,11 @@ git clone https://github.com/chanubc/opensw23-KLKB
 
 ![image01](https://github.com/chanubc/opensw23-KLKB/assets/106955456/43be217b-19f9-4025-ab66-776f5452950a)  
 
-https://drive.google.com/file/d/15jprd8VTdtIQeEtQj6wbRx6seM8j0Rx5/view?usp=sharing  
-다음 링크에 접속하여 데이터 셋을 다운받는다.  
-![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/a90e9b09-e9af-4518-bc3d-09b52db87221)  
-  
+CNN-Image-Colorization-Pytorch 폴더에 들어간다.
+inference 폴더에 들어가 사용하고 싶은 이미지의 이름과 확장자를 test_img.jpg로 설정하여 넣는다.
+다시 CNN-Image-Colorization-Pytorch 폴더에서 inference_script.py를 실행한다.
+
+
 
 
 ## Presentation
