@@ -13,7 +13,11 @@ https://github.com/williamcfrancis/CNN-Image-Colorization-Pytorch Repository에�
 Repository에서 제공하는 인공지능이 학습할 때 따뜻한 색상 또는 차가운 색상 위주로 학습하도록 특정 값을 넣어 조절하는 기능을 사용할 수 있다. 사용자가 어떤 값을 넣으냐에 따라 이 후 나오게 될 결과값에 변형을 줄 수 있다.  
 학습이 끝나면 사용자는 결과를 확인하기 위해 학습에 사용되었던 이미지나 학습에 사용되지 않았던 새로운 그레이 스케일 이미지를 인공지능이 색칠하게 할 수 있다.  
 
-## Results
+## Results  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/73a2976a-0751-426a-bf4f-5757686b1846)  
+  
+![image](https://github.com/chanubc/opensw23-KLKB/assets/106955456/0ee07c5c-74a3-4600-94ef-146badf4020f)  
+  
 
 ## Analysis/Visualization
 
