@@ -43,4 +43,3 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 
 ## Presentation
 
-### Push test
