@@ -91,9 +91,18 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 
 ## Results  
 저희는 총 60장의 직접 촬영한 사진을 사용해보았습니다.  
-아래는 촬영한 사진들 중 대표적으로 3장을 골라 각 사진의 원본, 흑백화된 원본, 흑백화된 사진에 모델을 사용한 결과들입니다.  
+아래는 촬영한 사진들 중 대표적으로 3장을 골라 각 사진의 원본, 흑백화된 원본, 흑백화된 사진에 모델을 사용한 결과들입니다.<br>
+원본 이미지 경로 : AnalysisImageSet/original/nature(자연)/20181030_163942.jpg<br>
+흑백 이미지 경로 : AnalysisImageSet/bw_image_BlackImage/nature(자연)/bw_20181030_163942.jpg<br>
+colorization 이미지 경로 : AnalysisImageSet/inference_ColorizationImage/nature(자연)/inference_output_20181030_163942.jpg<br>
 ![5](https://github.com/chanubc/opensw23-KLKB/assets/127182406/2798cc82-abb7-4a2c-8680-db3bc3841002)  
+원본 이미지 경로 : AnalysisImageSet/original/nature(자연)/MyPhoto_1200850165_0677.jpg<br>
+흑백 이미지 경로 : AnalysisImageSet/bw_image_BlackImage/nature(자연)/bw_MyPhoto_1200850165_0677.jpg<br>
+colorization 이미지 경로 : AnalysisImageSet/inference_ColorizationImage/nature(자연)/inference_output_MyPhoto_1200850165_0677.jpg<br>
 ![8](https://github.com/chanubc/opensw23-KLKB/assets/127182406/5238b727-0e6a-4b21-8c5b-abf182626b01)  
+원본 이미지 경로 : AnalysisImageSet/original/arc(건물)/IMG_1621.jpg<br>
+흑백 이미지 경로 : AnalysisImageSet/bw_image_BlackImage/arc(건물)/bw_IMG_1621.jpg<br>
+colorization 이미지 경로 : AnalysisImageSet/inference_ColorizationImage/arc(건물)/IMG_1621_output.jpg<br>
 ![3](https://github.com/chanubc/opensw23-KLKB/assets/127182406/3acf713f-b6c6-4d8c-a787-79c21336428e)   
 
   
