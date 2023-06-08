@@ -90,11 +90,9 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 ![결과0608](https://github.com/kimyeoungrok/openswAssignment_README/assets/127182406/37fab65a-6866-4bc3-b972-a7437baf6ab9)  
 
 ## Results  
-<인풋이미지>  
-![test](https://github.com/chanubc/opensw23-KLKB/assets/127182406/a65ab306-fe69-4850-8016-40bd9333a64e)  
-
-<아웃풋 이미지>  
-![inference_output](https://github.com/chanubc/opensw23-KLKB/assets/127182406/e9e76841-e94f-4ea4-9eb5-5be3ef196570)    
+![5](https://github.com/chanubc/opensw23-KLKB/assets/127182406/2798cc82-abb7-4a2c-8680-db3bc3841002)  
+![8](https://github.com/chanubc/opensw23-KLKB/assets/127182406/5238b727-0e6a-4b21-8c5b-abf182626b01)  
+![3](https://github.com/chanubc/opensw23-KLKB/assets/127182406/3acf713f-b6c6-4d8c-a787-79c21336428e)   
   
 ## Analysis/Visualization
 결과 분석 설명 전, 원본 Repository에는 모델이 주어지지 않아 직접 모델을 학습시켜 이 Repository에 추가시켰고,  
