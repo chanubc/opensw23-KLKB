@@ -95,6 +95,7 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 ![5](https://github.com/chanubc/opensw23-KLKB/assets/127182406/2798cc82-abb7-4a2c-8680-db3bc3841002)  
 ![8](https://github.com/chanubc/opensw23-KLKB/assets/127182406/5238b727-0e6a-4b21-8c5b-abf182626b01)  
 ![3](https://github.com/chanubc/opensw23-KLKB/assets/127182406/3acf713f-b6c6-4d8c-a787-79c21336428e)   
+
   
 ## Analysis/Visualization
 결과 분석 설명 전, 원본 Repository에는 모델이 주어지지 않아 직접 모델을 학습시켜 이 Repository에 추가시켰고,  
@@ -118,7 +119,8 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 2. 인물사진 55장 (인터넷에서 구한 인물사진 55장)  
 3. 자연물사진 55장 (인터넷에서 구한 자연물 사진 25장 + 저희가 찍은 사진 30장)  
 
-(분석을 더욱 자세히 하기 위하여 직접 찍은 사진들과 인터넷에서 사진을 구하여 같이 사용하였습니다)
+(분석을 더욱 자세히 하기 위하여 직접 찍은 사진들과 인터넷에서 사진을 구하여 같이 사용하였습니다.  
+분석에 사용된 이미지는 모두 AnalysisImageSet 폴더에 저장되어 있습니다.)
 
 이미지 카테고리별로 RGB거리의 평균값을 구해보았습니다.    
   
