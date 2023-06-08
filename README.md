@@ -205,4 +205,4 @@ colorization이 잘되지 않은 이미지들을 살펴본 결과 주로 갈색,
 원본 repository에서 학습한 모델을 제공하지 않아 직접 학습시킨 모델을 사용함. (모델 사용을 위해 train.py 코드 에러 수정)  
   
 ## Presentation
-
+https://www.youtube.com/watch?v=VKBqQHGXNkI  
