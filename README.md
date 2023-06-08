@@ -90,6 +90,8 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 ![결과0608](https://github.com/kimyeoungrok/openswAssignment_README/assets/127182406/37fab65a-6866-4bc3-b972-a7437baf6ab9)  
 
 ## Results  
+저희는 총 60장의 직접 촬영한 사진을 사용해보았습니다.  
+아래는 촬영한 사진들 중 대표적으로 3장을 골라 각 사진의 원본, 흑백화된 원본, 흑백화된 사진에 모델을 사용한 결과들입니다.  
 ![5](https://github.com/chanubc/opensw23-KLKB/assets/127182406/2798cc82-abb7-4a2c-8680-db3bc3841002)  
 ![8](https://github.com/chanubc/opensw23-KLKB/assets/127182406/5238b727-0e6a-4b21-8c5b-abf182626b01)  
 ![3](https://github.com/chanubc/opensw23-KLKB/assets/127182406/3acf713f-b6c6-4d8c-a787-79c21336428e)   
@@ -116,6 +118,7 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 건물사진 55장 (인터넷에서 구한 건물사진 25장 + 저희가 찍은 사진 30장)  
 인물사진 55장 (인터넷에서 구한 인물사진 55장)  
 자연물사진 55장 (인터넷에서 구한 자연물 사진 25장 + 저희가 찍은 사진 30장)
+(분석을 더욱 자세히 하기 위하여 직접 찍은 사진들과 인터넷에서 사진을 구하여 같이 사용하였습니다)
 
 이미지 카테고리별로 RGB거리의 평균값을 구해보았습니다.    
   
