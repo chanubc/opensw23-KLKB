@@ -89,7 +89,7 @@ inference폴더로 이동하면 변환된 이미지 inference_output.jpg를 볼 
 
 ![결과0608](https://github.com/kimyeoungrok/openswAssignment_README/assets/127182406/37fab65a-6866-4bc3-b972-a7437baf6ab9)  
   
-### <flow chart>   
+### flow chart   
 아래의 차트는 위의 설치 방법을 간략하게 플로우차트로 나타낸 것입니다.  
 ![flowchat_ex](https://github.com/chanubc/chanubc.github.io/assets/106955456/047a706f-a95e-480e-9b80-fad7e9703be9)  
   
