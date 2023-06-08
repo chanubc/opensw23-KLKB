@@ -1,6 +1,7 @@
 # opensw23-KLKB
 
-## Team Introduction
+## Team Introduction  
+### 13조  
 김영록 202011269 Role: 조장, 설치방법 작성, 분석작업 <br />
 이주혁 202011347 Role: 레포지토리 선정, 모델학습, 데이터 셋 제공 <br />
 김현민 202211289 Role: 토의사항 작성, 데이터 셋 제공 <br />
