@@ -164,10 +164,12 @@ colorization이 잘되지 않은 이미지들을 살펴본 결과 주로 갈색,
   
 먼저 잘 된 이미지들의 평균 RGB값입니다.  
 ![잘된이미지표](https://github.com/kimyeoungrok/openswAssignment_README/assets/127182406/7599c08f-bbf1-4a28-be11-574dcda5b4aa)
+잘된 이미지들의 경우 R,G,B의 값 각각의 차이가 적은 것을 알 수 있고  
 대다수의 이미지들에 검은색, 회색 계열의 색깔이 주로 들어가있음을 알 수 있습니다.  
   
 이번에는 잘 안된 이미지들의 평균 RGB값을 보겠습니다.  
 ![잘안된이미지표](https://github.com/kimyeoungrok/openswAssignment_README/assets/127182406/93bac2d6-92f5-4268-b934-41008b3360b4)
+잘 안된 이미지들의 경우 R,G,B의 값 각각의 차이가 큰 것을 알 수 있다.  
 대다수의 이미지에 노란색, 갈색 계열의 색깔이 주로 들어가있음을 알 수 있습니다.  
   
 ### <최종분석 결론>  
