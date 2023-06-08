@@ -1,10 +1,10 @@
 # opensw23-KLKB
 
 ## Team Introduction
-김영록 202011269 Role: Leader <br />
-이주혁 202011347 Role: Sample Data Research <br />
-김현민 202211289 Role: Presenter <br />
-배찬우 201914303 Role: Find Repository <br />
+김영록 202011269 Role: 조장, 설치방법 작성, 분석작업 <br />
+이주혁 202011347 Role: 레포지토리 선정, 모델학습, 데이터 셋 제공 <br />
+김현민 202211289 Role: 토의사항 작성, 데이터 셋 제공 <br />
+배찬우 201914303 Role: 분석작업 보조, 발표영상녹화 <br />
 
 ## Topic Introduction
 https://github.com/williamcfrancis/CNN-Image-Colorization-Pytorch Repository에서 가져와 사용함.  
